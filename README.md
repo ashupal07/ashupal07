@@ -1,20 +1,176 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashu.null) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashupal07) 
+<h1 align="center">Hi 👋, I'm Ashu Pal</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=2000&color=7AA2F7&center=true&vCenter=true&width=1100&lines=Software+Developer+%7C+C+%7C+C%2B%2B+Programmer+%7C+Python+Enthusiast+%7C+DSA+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
-
-![](https://github-readme-stats.shion.dev/api?username=ashupal07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ashupal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashupal07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashupal07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Passionate about building meaningful(not always for everyone) software, solving challenging problems, and continuously learning new technologies.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=13HappyKamboj&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🎓 Computer Science Student at **GL Bajaj Institute of Technology & Management**
+- 🌱 Currently focused on **Data Structures & Algorithms**
+- 💻 Interested in **Software Development, Artificial Intelligence & Open Source**
+- 📚 Learning **JavaScript, HTML and CSS**
+- ⚡ I enjoy turning ideas into real projects.
+- 📫 Reach me at **crazyboy4715@gmail.com**
+
+<br clear="right"/>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ashupal07">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ashu.null">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:palashu1517@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,git,github,vscode&perline=5"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashupal07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupal07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ashupal07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashupal07&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashupal07&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+```text
+✅ Master Data Structures & Algorithms
+
+✅ Strengthen Problem Solving
+
+✅ Build High Quality Projects
+
+✅ Learn Modern JavaScript
+
+✅ Contribute to Open Source
+```
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashupal07&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashupal07&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashupal07&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Fun Fact
+
+```cpp
+while(!success)
+{
+    Learn();
+    Practice();
+    Build();
+    Repeat();
+}
+```
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ashupal07&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:24283b&height=120&section=footer"/>
+
+</p>
